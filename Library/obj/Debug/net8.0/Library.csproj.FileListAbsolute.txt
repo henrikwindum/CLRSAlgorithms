@@ -9,3 +9,4 @@ C:\Users\Henrik Windum\Desktop\Introduction to Algorithms\CLRSAlgorithms\Library
 C:\Users\Henrik Windum\Desktop\Introduction to Algorithms\CLRSAlgorithms\Library\obj\Debug\net8.0\refint\Library.dll
 C:\Users\Henrik Windum\Desktop\Introduction to Algorithms\CLRSAlgorithms\Library\obj\Debug\net8.0\Library.pdb
 C:\Users\Henrik Windum\Desktop\Introduction to Algorithms\CLRSAlgorithms\Library\obj\Debug\net8.0\ref\Library.dll
+C:\Users\Henrik Windum\Desktop\Introduction to Algorithms\CLRSAlgorithms\Library\obj\Debug\net8.0\Library.sourcelink.json
